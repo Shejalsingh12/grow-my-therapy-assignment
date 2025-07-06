@@ -62,7 +62,7 @@ const About = () => {
                         </FadeInSection>
                         <FadeInSection delay={200}>
                             <p className="">
-                               Dr. Blake specializes in helping clients navigate anxiety, relationship challenges, and trauma recovery. By blending cognitive-behavioral therapy (CBT), mindfulness techniques, and trauma-informed care, she tailors each session to meet her clients’ unique goals. Her practice is grounded in evidence-based methods, but always delivered with empathy and compassion.</p>
+                               Dr. Blake specializes in helping clients navigate anxiety, relationship challenges, and trauma recovery. By blending cognitive-behavioral therapy (CBT), mindfulness techniques, and trauma-informed care, she tailors each session to meet her clients unique goals. Her practice is grounded in evidence-based methods, but always delivered with empathy and compassion.</p>
                         </FadeInSection>
                         <FadeInSection delay={400}>
                             <p className="">
