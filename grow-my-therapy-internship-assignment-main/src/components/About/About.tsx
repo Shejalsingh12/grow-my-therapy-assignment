@@ -66,7 +66,7 @@ const About = () => {
                         </FadeInSection>
                         <FadeInSection delay={400}>
                             <p className="">
-                                Sessions with Dr. Blake are designed to be both practical and empowering. She creates a space where clients feel genuinely heard, supported, and challenged in the right ways. Whether you're dealing with overwhelming stress, struggling with emotional wounds from the past, or simply seeking more balance, she offers tools to foster growth and resilience.
+                                Sessions with Dr. Blake are designed to be both practical and empowering. She creates a space where clients feel genuinely heard, supported, and challenged in the right ways. Whether you are dealing with overwhelming stress, struggling with emotional wounds from the past, or simply seeking more balance, she offers tools to foster growth and resilience.
 
                                 Clients can meet with Dr. Blake in person at her serene Maplewood Drive office or connect virtually through secure Zoom sessions. No matter the format, she is committed to building a therapeutic relationship based on trust, safety, and meaningful progress. Her goal is to help you not only cope—but truly thrive.</p>
                         </FadeInSection>
